@@ -11,7 +11,7 @@ Formulario de pago con tarjeta de crédito interactiva en tiempo real. Cada camp
 
 👉 **[Ver demo en vivo](https://abrahamramoskd.github.io/tarjeta_de_pago_interactiva/tarjetainteractiva.html)**
 
-> ⚠️ Asegúrate de tener GitHub Pages activo en este repo (Settings → Pages → rama `main`, carpeta `/root`).
+
 
 ## 💥 Características
 
