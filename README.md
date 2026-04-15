@@ -10,9 +10,6 @@ Formulario de pago con tarjeta de crédito interactiva en tiempo real. Cada camp
 ## ✨ Live Demo
 
 👉 **[Ver demo en vivo](https://abrahamramoskd.github.io/tarjeta_de_pago_interactiva/tarjetainteractiva.html)**
-
-
-
 ## 💥 Características
 
 - 🔢 **Número de tarjeta** — se formatea y muestra en tiempo real
